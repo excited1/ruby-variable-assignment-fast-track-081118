@@ -1,2 +1,2 @@
 my_age=30
-puts my-age
+puts my_age
